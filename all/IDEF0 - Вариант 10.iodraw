@@ -655,10 +655,10 @@
           <mxGeometry x="82" y="86.8" width="173" height="46.3" as="geometry" />
         </mxCell>
         <mxCell id="26" value="Сведения для договора" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=18;align=right;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="349" y="263.2" width="209" height="23.5" as="geometry" />
+          <mxGeometry x="163" y="260.25" width="209" height="23.5" as="geometry" />
         </mxCell>
         <mxCell id="27" value="Квартиры, готовые&#xa;к передаче" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=19;align=left;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="82" y="149.8" width="176" height="46.3" as="geometry" />
+          <mxGeometry x="82" y="143" width="176" height="46.3" as="geometry" />
         </mxCell>
         <mxCell id="28" value="Квартиры, готовые к передаче" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=18;align=right;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="404.4" y="383.2" width="264.6" height="23.5" as="geometry" />
@@ -670,7 +670,7 @@
           <mxGeometry x="829" y="302.8" width="185.3" height="46.3" as="geometry" />
         </mxCell>
         <mxCell id="31" value="Переданные квартиры&#xa;и документы" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=21;align=right;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1086.3" y="344.6" width="229.7" height="50.9" as="geometry" />
+          <mxGeometry x="1086.3" y="332.3" width="229.7" height="50.9" as="geometry" />
         </mxCell>
         <mxCell id="32" value="Персонал и подрядчики" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=21;align=left;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="387" y="536.5" width="242.3" height="26.9" as="geometry" />
