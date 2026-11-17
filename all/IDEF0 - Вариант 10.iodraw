@@ -89,7 +89,7 @@
           <mxGeometry x="966.7" y="225.5" width="214.3" height="26.9" as="geometry" />
         </mxCell>
         <mxCell id="21" value="Переданные квартиры&#xa;и документы" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=21;align=right;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="951.3" y="266.6" width="229.7" height="50.9" as="geometry" />
+          <mxGeometry x="951.3" y="255.00000000000003" width="229.7" height="50.9" as="geometry" />
         </mxCell>
         <mxCell id="22" value="Цель модели — описать полный цикл строительства и продажи квартир." style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=22;align=left;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="544" width="758.9" height="28.1" as="geometry" />
@@ -352,42 +352,42 @@
     </mxGraphModel>
   </diagram>
   <diagram id="A3" name="A3">
-    <mxGraphModel grid="0" page="1" pageScale="1" pageWidth="1350" pageHeight="588" background="#ffffff">
+    <mxGraphModel dx="1763" dy="1156" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1350" pageHeight="588" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=none;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="25" y="55" as="sourcePoint" />
             <mxPoint x="879" y="55" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="3" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=block;endFill=1;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="335" y="55" as="sourcePoint" />
             <mxPoint x="335" y="112" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=block;endFill=1;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="627" y="55" as="sourcePoint" />
             <mxPoint x="627" y="212" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="5" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=block;endFill=1;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="879" y="55" as="sourcePoint" />
             <mxPoint x="879" y="346" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="6" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=block;endFill=1;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="24" y="146" as="sourcePoint" />
             <mxPoint x="273" y="146" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="7" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=block;endFill=1;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="489" y="142" as="sourcePoint" />
             <mxPoint x="568" y="241" as="targetPoint" />
             <Array as="points">
@@ -397,13 +397,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=block;endFill=1;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="25" y="277" as="sourcePoint" />
             <mxPoint x="568" y="277" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=block;endFill=1;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="210" y="277" as="sourcePoint" />
             <mxPoint x="862" y="398" as="targetPoint" />
             <Array as="points">
@@ -412,13 +412,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="10" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=block;endFill=1;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="784" y="244" as="sourcePoint" />
             <mxPoint x="1320" y="244" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="11" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=block;endFill=1;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="784" y="266" as="sourcePoint" />
             <mxPoint x="1010" y="346" as="targetPoint" />
             <Array as="points">
@@ -429,88 +429,88 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="12" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=block;endFill=1;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="1078" y="380" as="sourcePoint" />
             <mxPoint x="1320" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="13" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=none;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="507" as="sourcePoint" />
             <mxPoint x="950" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="14" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=block;endFill=1;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="507" as="sourcePoint" />
             <mxPoint x="310" y="192" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="15" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=block;endFill=1;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="507" as="sourcePoint" />
             <mxPoint x="680" y="292" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="16" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=block;endFill=1;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="950" y="507" as="sourcePoint" />
             <mxPoint x="950" y="426" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="17" value="" style="edgeStyle=none;rounded=0;html=0;strokeWidth=2;strokeColor=#191919;endSize=8;jumpStyle=gap;jumpSize=10;endArrow=none;" parent="1" edge="1">
-          <mxGeometry as="geometry" relative="1">
+          <mxGeometry relative="1" as="geometry">
             <mxPoint x="310" y="565" as="sourcePoint" />
             <mxPoint x="310" y="507" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="18" value="Определить&#xa;потребность" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=21;align=center;verticalAlign=middle;spacing=0;fontColor=#191919;shape=rectangle;fillColor=#ffffff;strokeColor=#191919;strokeWidth=2;spacingBottom=10;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="273" y="112" width="216" height="80" />
+          <mxGeometry x="273" y="112" width="216" height="80" as="geometry" />
         </mxCell>
         <mxCell id="19" value="1" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=17;align=right;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="438" y="168" width="44" height="21" />
+          <mxGeometry x="438" y="168" width="44" height="21" as="geometry" />
         </mxCell>
         <mxCell id="20" value="Выбрать поставщика&#xa;и оформить заказ" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=21;align=center;verticalAlign=middle;spacing=0;fontColor=#191919;shape=rectangle;fillColor=#ffffff;strokeColor=#191919;strokeWidth=2;spacingBottom=10;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="568" y="212" width="216" height="80" />
+          <mxGeometry x="568" y="212" width="216" height="80" as="geometry" />
         </mxCell>
         <mxCell id="21" value="2" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=17;align=right;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="733" y="268" width="44" height="21" />
+          <mxGeometry x="733" y="268" width="44" height="21" as="geometry" />
         </mxCell>
         <mxCell id="22" value="Принять&#xa;материалы" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=21;align=center;verticalAlign=middle;spacing=0;fontColor=#191919;shape=rectangle;fillColor=#ffffff;strokeColor=#191919;strokeWidth=2;spacingBottom=10;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="862" y="346" width="216" height="80" />
+          <mxGeometry x="862" y="346" width="216" height="80" as="geometry" />
         </mxCell>
         <mxCell id="23" value="3" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=17;align=right;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="1027" y="402" width="44" height="21" />
+          <mxGeometry x="1027" y="402" width="44" height="21" as="geometry" />
         </mxCell>
         <mxCell id="24" value="Нормативные требования" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=21;align=left;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="28" y="20.5" width="263.3" height="26.9" />
+          <mxGeometry x="28" y="20.5" width="263.3" height="26.9" as="geometry" />
         </mxCell>
         <mxCell id="25" value="Проект и спецификация" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=19;align=left;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="27" y="118.7" width="221.7" height="24.7" />
+          <mxGeometry x="27" y="118.7" width="221.7" height="24.7" as="geometry" />
         </mxCell>
         <mxCell id="26" value="Заявка на&#xa;закупку" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=17;align=right;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="421.0" y="198.1" width="86.0" height="41.8" />
+          <mxGeometry x="421" y="198.1" width="86" height="41.8" as="geometry" />
         </mxCell>
         <mxCell id="27" value="Предложения и поставки" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=21;align=left;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="28" y="248.5" width="253.7" height="26.9" />
+          <mxGeometry x="28" y="248.5" width="253.7" height="26.9" as="geometry" />
         </mxCell>
         <mxCell id="28" value="Поставленные материалы" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=19;align=right;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="414.0" y="370.7" width="243.0" height="24.7" />
+          <mxGeometry x="414" y="370.7" width="243" height="24.7" as="geometry" />
         </mxCell>
         <mxCell id="29" value="Цены, сроки и условия" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=19;align=right;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="349.3" y="249.7" width="210.7" height="24.7" />
+          <mxGeometry x="349.3" y="249.7" width="210.7" height="24.7" as="geometry" />
         </mxCell>
         <mxCell id="30" value="Заказы поставщикам" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=21;align=right;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="1101.7" y="215.5" width="214.3" height="26.9" />
+          <mxGeometry x="1101.7" y="215.5" width="214.3" height="26.9" as="geometry" />
         </mxCell>
         <mxCell id="31" value="Условия заказа" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=19;align=right;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="859.7" y="276.7" width="145.3" height="24.7" />
+          <mxGeometry x="859.7" y="276.7" width="145.3" height="24.7" as="geometry" />
         </mxCell>
         <mxCell id="32" value="Принятые материалы" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=21;align=right;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="1094.7" y="351.5" width="221.3" height="26.9" />
+          <mxGeometry x="1094.7" y="351.5" width="221.3" height="26.9" as="geometry" />
         </mxCell>
         <mxCell id="33" value="Персонал и подрядчики" style="html=0;whiteSpace=wrap;fontFamily=Arial;fontSize=21;align=left;verticalAlign=middle;spacing=0;fontColor=#191919;text;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry as="geometry" x="322" y="533.5" width="242.3" height="26.9" />
+          <mxGeometry x="322" y="533.5" width="242.3" height="26.9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
